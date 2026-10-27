@@ -12,6 +12,7 @@
 | EP-2 | 2026-10-23 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 370,205 | [Reel দেখো](https://facebook.com/reel/1432836765055712/) | [Shorts দেখো](https://youtube.com/shorts/JO1iEhM6Ovo) |
 | EP-3 | 2026-10-24 | [agency-agents](https://github.com/msitarzewski/agency-agents) | 163,451 | [Reel দেখো](https://facebook.com/reel/966639033169255/) | [Shorts দেখো](https://youtube.com/shorts/zPPQOqlee9Q) |
 | EP-4 | 2026-10-26 | [ECC](https://github.com/affaan-m/ECC) | 289,325 | [Reel দেখো](https://facebook.com/reel/1683849543173731/) | [Shorts দেখো](https://youtube.com/shorts/5FRnf9kJz9k) |
+| EP-5 | 2026-10-27 | [api-anything](https://github.com/goodnight000/api-anything) | 1,679 | [Reel দেখো](https://facebook.com/reel/1677294883970312/) | |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 - Facebook Page: GitHub Bangla (github ultra)
